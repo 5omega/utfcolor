@@ -11,6 +11,11 @@ There is no real purpose, it should be seen as an art project.
 
 ## Usage
 
+Installation:
+```
+pip install utfcolor
+```
+
 As a package:
 ```
 >>> import utfcolor
@@ -19,8 +24,7 @@ As a package:
 
 From the command line:
 ```
-pip install utf-color
-python3 -m utf-color %PathToTextfile% [options]
+python3 -m utfcolor %PathToTextfile% [options]
 ```
 
 ## Parameters
